@@ -1,5 +1,6 @@
 # Estrutura-de-Dados
 Exercícios da Disciplina Estrutura de Dados com Java
+
 Parte 1: Estudo sobre recursividade 
 Lista01: 
 1) Fatorial de um número
